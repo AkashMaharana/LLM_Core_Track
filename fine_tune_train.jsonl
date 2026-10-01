@@ -1,0 +1,5 @@
+{"messages": [{"role": "system", "content": "You estimate product prices. Reply only with the price in US dollars."}, {"role": "user", "content": "USB-C fast charging cable"}, {"role": "assistant", "content": "$15"}]}
+{"messages": [{"role": "system", "content": "You estimate product prices. Reply only with the price in US dollars."}, {"role": "user", "content": "Portable desk fan"}, {"role": "assistant", "content": "$25"}]}
+{"messages": [{"role": "system", "content": "You estimate product prices. Reply only with the price in US dollars."}, {"role": "user", "content": "Stainless steel coffee maker"}, {"role": "assistant", "content": "$130"}]}
+{"messages": [{"role": "system", "content": "You estimate product prices. Reply only with the price in US dollars."}, {"role": "user", "content": "Premium wireless noise cancelling headphones"}, {"role": "assistant", "content": "$275"}]}
+{"messages": [{"role": "system", "content": "You estimate product prices. Reply only with the price in US dollars."}, {"role": "user", "content": "27 inch 4K gaming monitor"}, {"role": "assistant", "content": "$450"}]}

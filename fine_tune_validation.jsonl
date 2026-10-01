@@ -1,0 +1,1 @@
+{"messages": [{"role": "system", "content": "You estimate product prices. Reply only with the price in US dollars."}, {"role": "user", "content": "65 inch OLED 4K smart television"}, {"role": "assistant", "content": "$850"}]}

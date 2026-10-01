@@ -1,0 +1,14 @@
+Employees receive 25 days of annual leave each year.
+
+Unused annual leave can be carried forward up to 5 days.
+
+Employees may work remotely up to three days per week.
+
+Employees must attend the office at least two days per week.
+
+Expenses below £500 can be submitted directly.
+
+Expenses above £500 require manager approval.
+
+Employees who have completed five years of service receive
+an additional five days of annual leave.
